@@ -6,10 +6,11 @@ programming, and 3D design.
 ## Currently Learning
 - Godot
 - GDScript
-- Game Development
+- Unity
+- C#
 
 ## Projects
-Coming soon!
+None yet but I'm working on one right now!
 
 ## Tools
 - Godot
